@@ -8,7 +8,7 @@
      <img align="center" alt="Logo Lincoln Thierry" width="36px" src="image/logo.jpg"></a>
     <span>Lincoln Thierry</span>
 </h1>
-<p align="justify" dir="auto">Analista de Dados | Desenvolvedor Web São Paulo -SP, Brasil, bacharelando em Ciência da Computação com foco em IA. Meu envolvimento com tecnológia vem se intensificando e veio conquistando mais experiência. Com compromisso inabalável com a excelência, estou determinado a impulsionar minha carreira de desenvolvedor para novos patamares, entregando soluções inovadoras e de alta qualidade que superam as expectativas dos clientes em cada projeto.
+<p align="justify" dir="auto">Analista de Dados | Desenvolvedor Web São Paulo -SP, Brasil, bacharelando em Ciência da Computação com foco em IA. Meu envolvimento com tecnológia vem se intensificando e venho conquistando mais experiência. Com compromisso inabalável com a excelência, estou determinado a impulsionar minha carreira de desenvolvedor para novos patamares, entregando soluções inovadoras e de alta qualidade que superam as expectativas dos clientes em cada projeto.
 
 
 <div align="center">
